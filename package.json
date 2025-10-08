@@ -1,0 +1,11 @@
+{
+  "name": "phone-info-website",
+  "version": "1.0.0",
+  "description": "Advanced Phone Information System",
+  "scripts": {
+    "build": "echo 'Building...'"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
